@@ -1,0 +1,10 @@
+chromadb
+requests
+langchain
+accelerate
+langchain_community
+streamlit
+together
+python-dotenv
+pypdf
+sentence-transformers

@@ -1,0 +1,3 @@
+"""
+PDF Sohbet Uygulaması paketi
+""" 

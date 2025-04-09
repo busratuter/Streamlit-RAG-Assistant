@@ -1,0 +1,32 @@
+# Environment variables
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+.mypy_cache/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Database
+chroma_db/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*~
+
+# macOS
+.DS_Store 

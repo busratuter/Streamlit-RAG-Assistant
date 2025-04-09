@@ -1,0 +1,3 @@
+"""
+Model entegrasyon modülü
+""" 

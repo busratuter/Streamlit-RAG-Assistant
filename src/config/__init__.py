@@ -1,0 +1,3 @@
+"""
+Yapılandırma modülü
+""" 
