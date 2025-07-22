@@ -1,6 +1,6 @@
 # Streamlit RAG Asistanı
 
-Bu proje, Streamlit tabanlı RAG asistanıdır. PDF dosyalarını yüklemenize, içeriklerini işlemenize ve belgelerle ilgili sorular sormanıza olanak tanır. Asistan, PDF'lerden alınan bilgilere dayanarak yanıtlar üretmek için bir LLM kullanır.
+Bu proje, Streamlit tabanlı RAG asistanıdır. Asistan, PDF'lerden alınan bilgilere dayanarak yanıtlar üretmek için bir LLM kullanır.
 
 ## Teknik Detaylar
 
